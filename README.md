@@ -2,6 +2,8 @@
 
 Welcome to Pizza Palace, where pizza lovers' dreams come true! This project is a frontend design for showcasing the delightful pizza menu of "Pizza Palace" using ReactJS.
 
+Live Link : https://pizzapalace1.netlify.app/
+
 ## Features
 
 - **Interactive Pizza Menu:**
